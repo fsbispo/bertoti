@@ -2,4 +2,4 @@
 
 Titus Winters, Software Engineering at Google
 
-É uma frase bem informativa, pois mesmo que seja necessário a programação para o desenvolvimento de um software o autor afirma que engenharia de software não é programação apresentando suas diferenças.
+É uma frase bem informativa, pois mesmo que seja necessário a programação para o desenvolvimento de um software o autor afirma que engenharia de software não é programação, apresentando suas diferenças.
