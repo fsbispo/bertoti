@@ -17,9 +17,8 @@ Exemplo: Controle de Acesso de Condomínio
   <li>Confiabiliade: Sistema toletante a erros.</li>
 </ul>
     
-    
-
 <h2>Diagrama de Caso de Uso</h2>
+<img src="imagens/uso.jpg">
 
 <h2>Diagrama de Classe</h2>
 
