@@ -18,7 +18,7 @@ Exemplo: Controle de Acesso de Condomínio
 </ul>
     
 <h2>Diagrama de Caso de Uso</h2>
-<img src="imagens/uso.jpg">
+<img src="imagens/uso.png">
 
 <h2>Diagrama de Classe</h2>
 
