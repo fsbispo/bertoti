@@ -13,8 +13,7 @@ Exemplo: Controle de Pessoas e Residencias de uma Cidade
 <ul>
   <li>Operador pode cadastrar pessoas, juntamente com nome, cpf e sexo.</li>
   <li>Operador pode atribuir uma residencia a uma pessoa cadastrada.</li>
-  <li>Operador pode filtrar pessoas por endereco.</li>
-  <li>Operador pode filtrar pessoas por CPF.</li>
+  <li>Operador pode buscar pessoas por CPF.</li>
 </ul>
 
 <h2>Requisitos Não Funcionais</h2>
