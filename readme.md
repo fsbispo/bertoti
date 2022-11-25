@@ -4,7 +4,7 @@
 Titus Winters, Software Engineering at Google
 
 
-Ciclo de vida do software é um termo usado para definir a sequência de etapas desde a concepção do sistema até a desativação do sistema pelo desenvolvedor. Ele ajuda a orientar as equipes de desenvolvimento e alocar recursos de maneira direcionada.
+Ciclo de vida do software é usado para definir a sequência de etapas desde a concepção do sistema até a desativação do sistema pelo desenvolvedor. Ele ajuda a orientar as equipes de desenvolvimento e alocar recursos de maneira direcionada.
 <h1></h1>
 
 Exemplo: Controle de Pessoas e Residencias de uma Cidade
@@ -27,4 +27,4 @@ Exemplo: Controle de Pessoas e Residencias de uma Cidade
 <img src="https://github.com/fsbispo/bertoti/blob/main/Case-diagram/case-diagram.png">
 
 <h2>Diagrama de Classe</h2>
-
+<img src="https://github.com/fsbispo/bertoti/blob/main/class-diagram/class-diagram.png">
