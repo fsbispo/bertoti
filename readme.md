@@ -3,7 +3,8 @@
 
 Titus Winters, Software Engineering at Google
 
-É uma frase bem informativa, pois mesmo que seja necessário a programação para o desenvolvimento de um software o autor afirma que engenharia de software não é programação, apresentando suas diferenças.
+<hr>
+Ciclo de vida do software é um termo usado para definir a sequência de etapas desde a concepção do sistema até a desativação do sistema pelo desenvolvedor. Ele ajuda a orientar as equipes de desenvolvimento e alocar recursos de maneira direcionada.
 
 Exemplo: Controle de Pessoas e Residencias de uma Cidade
 
