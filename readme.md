@@ -11,16 +11,15 @@ Exemplo: Controle de Pessoas e Residencias de uma Cidade
 
 <h2>Requisitos Funcionais</h2>
 <ul>
-  <li>Funcionário pode cadastrar um novo visitante, consultar e excluir.</li>
-  <li>Funcionário pode criar unidades respectivas a cada casa do condomínio.</li>
-  <li>Funcionário pode cadastrar moradores em suas unidades.</li>
-  <li>Funcionário pode dar baixa em visitante.</li>
+  <li>Operador pode cadastrar pessoas, juntamente com nome, cpf e sexo.</li>
+  <li>Operador pode atribuir uma residencia a uma pessoa cadastrada.</li>
+  <li>Operador pode filtrar pessoas por endereco.</li>
+  <li>Operador pode filtrar pessoas por CPF.</li>
 </ul>
 
 <h2>Requisitos Não Funcionais</h2>
 <ul>
   <li>Eficiencia: Bom tempo de resposta do sistema.</li>
-  <li>Usabilidade: Interface simples para facilidade na operabilidade.</li>
   <li>Confiabiliade: Sistema toletante a erros.</li>
 </ul>
     
