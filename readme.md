@@ -25,7 +25,7 @@ Exemplo: Controle de Pessoas e Residencias de uma Cidade
 </ul>
     
 <h2>Diagrama de Caso de Uso</h2>
-<img src="imagens/uso.png">
+<img src="https://github.com/fsbispo/bertoti/blob/main/Case-diagram/case-diagram.png">
 
 <h2>Diagrama de Classe</h2>
 
