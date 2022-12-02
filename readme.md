@@ -26,4 +26,4 @@ Exemplo: Controle de Pessoas e Residencias de uma Cidade
 <img src="https://github.com/fsbispo/bertoti/blob/main/Case-diagram/case-diagram.png">
 
 <h2>Diagrama de Classe</h2>
-<img src="https://github.com/fsbispo/bertoti/blob/main/class-diagram/class-diagram.png">
+<img src="https://github.com/fsbispo/bertoti/blob/main/Case-diagram/class-diagram.png">
