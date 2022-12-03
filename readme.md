@@ -30,8 +30,8 @@ Exemplo: Controle de Pessoas e Residencias de uma Cidade
 
 <h2>Classes</h2>
 Cidade
-<img src="https://github.com/fsbispo/bertoti/blob/main/classes/cidade.png">
+<img src="https://github.com/fsbispo/bertoti/blob/main/classes/cidade.PNG">
 Pessoa
-<img src="https://github.com/fsbispo/bertoti/blob/main/classes/pessoa.png">
+<img src="https://github.com/fsbispo/bertoti/blob/main/classes/pessoa.PNG">
 Residencia
-<img src="https://github.com/fsbispo/bertoti/blob/main/classes/residencia.png">
+<img src="https://github.com/fsbispo/bertoti/blob/main/classes/residencia.PNG">
